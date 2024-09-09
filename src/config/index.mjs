@@ -99,8 +99,8 @@ export const Models = {
   //   desc: 'ChatGPT (GPT-4-Turbo 128k 0125 Preview)',
   // },
   chatgptApi4_v_preview: {
-    value: 'gpt-4-vision-preview',
-    desc: 'Chatgpt-4v preview model',
+    value: 'gpt-4o',
+    desc: 'Chatgpt-4o',
   },
 
   // claude2WebFree: { value: 'claude-2.1', desc: 'Claude.ai (Web, Claude 2.1)' },
